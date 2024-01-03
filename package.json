@@ -1,0 +1,14 @@
+{
+  "name": "bt_5e7_30",
+  "version": "1.0.0",
+  "description": "Geolocation API demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lin Han Zhou",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
